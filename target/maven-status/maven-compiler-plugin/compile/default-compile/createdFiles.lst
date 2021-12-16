@@ -1,0 +1,11 @@
+com\cicl4\retos\reto\service\ProductosService.class
+com\cicl4\retos\reto\controller\UserController.class
+com\cicl4\retos\reto\repository\ProductoRepository.class
+com\cicl4\retos\reto\model\Productos.class
+com\cicl4\retos\reto\repository\UserRepository.class
+com\cicl4\retos\reto\service\UserService.class
+com\cicl4\retos\reto\repository\crud\UserCrudRepository.class
+com\cicl4\retos\reto\controller\CleaningProdController.class
+com\cicl4\retos\reto\RetoApplication.class
+com\cicl4\retos\reto\repository\crud\ProductoCrudRepository.class
+com\cicl4\retos\reto\model\User.class
